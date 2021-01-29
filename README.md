@@ -14,8 +14,8 @@ MBTI 검사를 통해 마음에 맞는 동행 서비스 제공
 
 실시간 양방향 채팅을 통해 신속한 동행 서비스 제공
 
+<h2>실행 영상</h2>
 
-<img src="./imgForMkdn/스크린샷 2020-06-12 오전 8.01.32.jpg" width="300px" height="600px" title="300px" alt="trafit"></img><br/>
-
+[![Video Label](http://img.youtube.com/vi/VdRlZ-8mSag/0.jpg)](https://youtu.be/VdRlZ-8mSag) 
 ###### Ajou University Capstone Design
 **serverside**
